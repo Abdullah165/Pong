@@ -1,4 +1,4 @@
-# Pong
+# Pong game in Unity included Observer Pattern implemented To Keep our Subject (player or whatever) clean and easier to maintain. 
 
 ![Screenshot 2023-01-30 212624](https://user-images.githubusercontent.com/63372032/215577806-f51cd79d-cc8d-4e22-bee7-890528a91108.png)
 
